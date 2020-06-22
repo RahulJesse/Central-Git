@@ -1,3 +1,6 @@
 Line:1 #include<stdio.h>
 Line:1 int main() {
 printf("Hello, World!");
+ return 0;
+}
+
